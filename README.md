@@ -22,5 +22,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitmohanty2&theme=onedark" alt="mystreak"/>
 
-### My Holopin Board
-[![@vanshgoel's Holopin board](https://holopin.me/Ankitmohanty2)](https://holopin.io/@Ankitmohanty2)
+
