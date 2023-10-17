@@ -1,6 +1,6 @@
 
 ### Hey! 👋, This is Ankit
-<img align="right" width="375" alt="" src="https://tenor.com/en-GB/view/sing-crayon-shin-chan-dancing-dance-moves-grooves-gif-17148357" />
+<img align="right" width="375" alt="" src="https://giphy.com/embed/VIi8fsqOlCFpe6cNXK" />
  ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
