@@ -1,6 +1,6 @@
 
 ### Hey! 👋, This is Ankit
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/icIr8rk03xQI6NS67S/giphy.gif" />
+<img align="right" width="375" alt="" src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gifhttps://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" />
  ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
