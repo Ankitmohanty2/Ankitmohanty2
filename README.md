@@ -40,12 +40,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-  https://streak-stats.demolab.com?user=Ankitmohanty2&theme=solarized-dark
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitmohanty2&hide_border=true" />
-</details>
 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
