@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870070-7f688780-89a8-11eb-9e33-6e7b5ddb9c7a.png" alt="nextjs"></code>
+<code><img height="27" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rlogical.com%2Fblog%2Fwhy-do-we-love-next-js-in-2021%2F&psig=AOvVaw2lGhbrHfxBCicaeVfFVfrW&ust=1699710666712000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDhq_TJuYIDFQAAAAAdAAAAABAJ" alt="nextjs"></code>
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
