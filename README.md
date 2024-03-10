@@ -65,7 +65,7 @@
 	    <li><b>Laptop: </b> HP Victus (39.6 cm, i5, 2022)</li>
             <li><b>Mouse: </b>Logitech MX master 3</li>
 	    <li><b>Keyboard: </b>Logitech K380</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Brave Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
 	</ul>	
