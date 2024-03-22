@@ -63,6 +63,5 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&theme=onedark&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitmohanty2&theme=onedark" alt="mystreak"/>
 
 
