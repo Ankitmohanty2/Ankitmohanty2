@@ -63,5 +63,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&theme=onedark&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankitmohanty2&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
 
 
