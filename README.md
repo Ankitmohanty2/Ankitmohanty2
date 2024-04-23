@@ -65,6 +65,8 @@
     </a><!--change language to japanese locale=jp-->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Ankitmohnaty2&theme=radical&row=4&column=4"/>
+        [![trophy](https://github-profile-trophy.vercel.app/?Ankitmohanty2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
     </a>
     <a href="https://github.com/Ankitmohanty2/github-readme-activity-graph">
