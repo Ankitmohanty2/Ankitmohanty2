@@ -64,5 +64,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ankitmohanty2&theme=onedark&show_border=true)](https://git.io/streak-stats)
 
+#
+
+![Visitor Count](https://profile-counter.glitch.me/Ankitmohanty2/count.svg)
+
+### Thank you for visiting! 🙏
+
+![GIF](https://tenor.com/en-GB/view/anime-jujutsu-kaisen-itadori-bye-gif-19940595)
 
 
