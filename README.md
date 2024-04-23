@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2" width="300px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1mbjI5NnB2OHZraGZwanMxOWNqNm5hcTIwc29kODVrZGN3MnBrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="300px">
 </div>
 <br>
 
