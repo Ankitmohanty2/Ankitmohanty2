@@ -70,6 +70,6 @@
 
 ### Thank you for visiting! 🙏
 
-![GIF](https://tenor.com/en-GB/view/anime-jujutsu-kaisen-itadori-bye-gif-19940595)
+(https://tenor.com/en-GB/view/anime-jujutsu-kaisen-itadori-bye-gif-19940595))
 
 
