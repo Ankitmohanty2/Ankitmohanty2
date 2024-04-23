@@ -2,13 +2,13 @@
 <body>
 <br>
 <div align="center">
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+<img src="https://tenor.com/en-GB/view/mlbb-jjk-jjk-mlbb-jujutsu-kaisen-mlbbx-jujutsu-kaisen-xavier-gif-27558705" width="300px">
 </div>
 <br>
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-<img align="right" width="375" alt="" src="https://tenor.com/en-GB/view/mlbb-jjk-jjk-mlbb-jujutsu-kaisen-mlbbx-jujutsu-kaisen-xavier-gif-27558705" />
+<img align="right" width="375" alt="" src="" />
 
 
  ### Talking about Personal Stuff:
