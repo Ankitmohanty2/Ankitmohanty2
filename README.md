@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://tenor.com/en-GB/view/mlbb-jjk-jjk-mlbb-jujutsu-kaisen-mlbbx-jujutsu-kaisen-xavier-gif-27558705" width="300px">
+<img src="https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2" width="300px">
 </div>
 <br>
 
