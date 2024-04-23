@@ -37,3 +37,15 @@
 - 📫 &nbsp; How to reach me: [LinkedIN](https://www.linkedin.com/in/ankit-mohanty-3036ba209/) or mohantyankit619@gmail.com.
 <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
 
+<div>
+<h2 align="center"> Languages and Tools:📖 </h2>
+</div>
+<div align = "center">
+<p align = "center">
+     <a href="https://skillicons.dev">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=javascript,ts,bash,linux,git,github,java,reactnative,py,nodejs,c,cpp,css,html,react,aws,express,materialui,mongodb,postgres,graphql,postman,docker&perline=8"alt="My Skills"/> 
+    </a>
+</p>
+</div>
+<br>
+
