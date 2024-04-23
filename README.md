@@ -97,10 +97,5 @@
 <br>
 
     
-<h1 align="center">Support Me 🎧🎤  </h1>
-
-<p align="center">
-⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
-</p>
 
 
