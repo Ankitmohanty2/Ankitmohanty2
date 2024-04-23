@@ -1,46 +1,4 @@
 
-<h1 align="center">Hi there I'm Ankit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Ankitmohanty2&color=ff69b4&style=plastic&label=👀+Profile+Views">
-</p>
-
-
-<div align="center">
-<a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
-</a>
-    <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=Ankitmohanty2&style=for-the-badge&color=1C8C8C">
-        </a>
-    </p>
-
-</div>
-
-
-
-</div>  
-<br>
-<div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-<div align="center">
-    <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
-  </div>
-<br> 
-<br>
-
-    
-<h1 align="center">Support Me 🎧🎤  </h1>
-
-<p align="center">
-⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
-</p>
-
-
-<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
-
-
-
-
 <body>
 <br>
 <div align="center">
@@ -124,5 +82,25 @@
 </a>  <br><img align="center"src = "img/hatsunemikudrop.gif" width = "500"/>
 </div>  
 
+</div>  
+
+
+
+</div>  
+<br>
+<div>
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div align="center">
+    <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
+  </div>
+<br> 
+<br>
+
+    
+<h1 align="center">Support Me 🎧🎤  </h1>
+
+<p align="center">
+⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
+</p>
 
 
