@@ -104,7 +104,7 @@
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div align="center">
-    <img src="https://i.gifer.com/52su.gif" width="500"/>
+    <img src="https://i.imgur.com/9tIFmUS.gif" width="500"/>
   </div>
 <br> 
 <br>
