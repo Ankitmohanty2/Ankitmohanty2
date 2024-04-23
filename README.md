@@ -8,7 +8,7 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+<img align="right" width="375" alt="" src="https://tenor.com/en-GB/view/mlbb-jjk-jjk-mlbb-jujutsu-kaisen-mlbbx-jujutsu-kaisen-xavier-gif-27558705" />
 
 
  ### Talking about Personal Stuff:
