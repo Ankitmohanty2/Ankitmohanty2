@@ -64,9 +64,7 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitmohanty2&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j"/>
     </a><!--change language to japanese locale=jp-->
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Ankitmohnaty2&theme=radical&row=4&column=4"/>
-        [![trophy](https://github-profile-trophy.vercel.app/?Ankitmohanty2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Ankitmohanty2&theme=radical&row=4&column=4"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
     </a>
     <a href="https://github.com/Ankitmohanty2/github-readme-activity-graph">
@@ -85,8 +83,8 @@
 
 <h1 align="center"> My contributions game 🐍🎮</h1>
 
-![](https://raw.githubusercontent.com/Ankitmohanty2/Ankitmohnaty2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Ankitmohnaty2/Ankitmohanty2/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/Ankitmohanty2/Ankitmohanty2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ankitmohanty2/Ankitmohanty2/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 
