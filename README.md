@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">Hi there I'm Ankit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Ankitmohanty2&color=ff69b4&style=plastic&label=👀+Profile+Views">
 </p>
@@ -27,8 +27,6 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-### Hey! 👋, This is Ankit
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gifhttps://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" />
  ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
