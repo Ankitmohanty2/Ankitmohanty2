@@ -8,7 +8,7 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-<img align="right" width="375" alt="" src="" />
+<img align="right" width="375" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc4aXcwdnl1eWQ4MnNqYm04ZWppajh3ZWpyNDM2d2JscWY4bjZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EuCHgBO2sraOk/giphy.gif" />
 
 
  ### Talking about Personal Stuff:
@@ -20,6 +20,14 @@
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [LinkedIN](https://www.linkedin.com/in/ankit-mohanty-3036ba209/) or mohantyankit619@gmail.com.
 <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
+- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+- ⚡ &nbsp; Fun fact: I love to play guitar and there is a 88% probability that I'll beat you in a badminton match :p
+
 
 <div>
 <h2 align="center"> Languages and Tools:📖 </h2>
