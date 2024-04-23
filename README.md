@@ -8,7 +8,7 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc4aXcwdnl1eWQ4MnNqYm04ZWppajh3ZWpyNDM2d2JscWY4bjZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EuCHgBO2sraOk/giphy.gif" />
+<img align="right" width="375" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc4ZTllZ3V1ajVydTMwdG1hZ3N0OGt1Z3YwM3FudHViaXcwMWZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cruO3FTeoAxjiTVxPW/giphy.gif" />
 
 
  ### Talking about Personal Stuff:
