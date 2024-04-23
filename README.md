@@ -1,4 +1,33 @@
 
+<h1 align="center">Hi there I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&color=ff69b4&style=plastic&label=👀+Profile+Views">
+</p>
+
+
+<div align="center">
+<a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+</a>
+    <p>
+        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
+        <a href="https://t.me/yoshimakayaba"><img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+    </p>
+
+</div>
+
+
+
+<body>
+<br>
+<div align="center">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+</div>
+<br>
+
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
 ### Hey! 👋, This is Ankit
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gifhttps://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" />
  ### Talking about Personal Stuff:
@@ -10,66 +39,4 @@
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [LinkedIN](https://www.linkedin.com/in/ankit-mohanty-3036ba209/) or mohantyankit619@gmail.com.
 <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
-- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to listen Songs and there is a 88% probability that I'll beat you in a badminton match :p
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="nextjs"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projects and Dev Stuff:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-	 <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats" /></td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-
-
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Linux & Windows</li>
-	    <li><b>Laptop: </b> HP Victus (39.6 cm, i5, 2022)</li>
-            <li><b>Mouse: </b>Logitech MX master 3</li>
-	    <li><b>Keyboard: </b>Logitech K380</li>
-  	    <li><b>Browser: </b> Brave Web Browser</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
-	</ul>	
-</details>
-
-#
-
-
-### Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&theme=onedark&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&theme=onedark&layout=compact)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ankitmohanty2&theme=onedark&show_border=true)](https://git.io/streak-stats)
-
-#
-
-![Visitor Count](https://profile-counter.glitch.me/Ankitmohanty2/count.svg)
-
-### Thank you for visiting! 🙏
-
-(https://tenor.com/en-GB/view/anime-jujutsu-kaisen-itadori-bye-gif-19940595))
-
 
