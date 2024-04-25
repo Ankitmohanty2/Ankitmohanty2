@@ -82,14 +82,6 @@
 
 
 
-<h1 align="center"> My contributions game 🐍🎮</h1>
-
-![](https://raw.githubusercontent.com/Ankitmohanty2/Ankitmohanty2/output/github-contribution-grid-snake-dark.svg)
-
-![](https://raw.githubusercontent.com/Ankitmohanty2/Ankitmohanty2/output/github-contribution-grid-snake.svg)
-
-<br>
-
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
