@@ -23,7 +23,7 @@
  ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; i'm Ankit <img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
-- 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
+- 👀 &nbsp; What I want to learn: Kotlin, Golang, Rust(should I?)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ankitmohanty2).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/ankit-mohanty-3036ba209/)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
