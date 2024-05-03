@@ -55,7 +55,7 @@
 <div> 
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="69%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
     </a>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ankitmohanty2&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
     </a><!--change language to japanese locale=jp-->
@@ -64,10 +64,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "71%" />
     </a>
     <a href="https://github.com/Ankitmohanty2/github-readme-activity-graph">
-        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&theme=redical"/>
+        <img width="80%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&theme=redical"/>
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitmohanty2&theme=2077"
+        <img width="90%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitmohanty2&theme=2077"
 
 
 </p>
