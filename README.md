@@ -57,7 +57,7 @@
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
     </a>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=darcula" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=neon" alt="GitHub Streak" /></a>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Ankitmohanty2&theme=radical&row=4&column=4"/>
