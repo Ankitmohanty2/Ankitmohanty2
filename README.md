@@ -53,21 +53,19 @@
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div> 
-<p align = "center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
-    </a>
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitmohanty2" alt="Ankitmohanty2&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"" /></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Ankitmohanty2&theme=radical&row=4&column=4"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "51%" />
-    </a>
-    <a href="https://github.com/Ankitmohanty2/github-readme-activity-graph">
-        <img width="80%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&theme=redical"/>
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img width="90%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitmohanty2&theme=2077"
-            </a>
+<p align="center">
+<span><img alt="Ankit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
+ <span><img alt="Ankit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
+ <span><img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"></span>
+ </p>
+ 
+ 
+ [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <p align="center">
+ <span><img alt="Ankit's Github Stats" src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=cobalt&hide_border=true" /></span>
+ <span><img src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/69595691/503a78ae-ab13-455f-aeeb-9eccaafa53ee" width="200px"></span>
+ </p>
 
 </p>
 </div>
