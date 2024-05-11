@@ -85,7 +85,7 @@
 </a>
 <a href="https://www.linkedin.com/in/ankit-mohanty-3036ba209/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img align="center"src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNucnBvdHh4eHhnMDVxaGFrM3BxY2x3aWFqYmRnZmNpMnpraG9pNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7ukR0YcLknkzXTynF/giphy.gif" width = "500"/>
+</a>  <br><img align="center"src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9wanFleXN4OXJ0dHF6djI5aDZsZWc1bm4zbDM0eW5xN3Z4enNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJYR7daLY7F73jy2b4/giphy.gif" width = "500"/>
 </div>  
 
 </div>  
