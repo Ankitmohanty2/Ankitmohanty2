@@ -64,7 +64,7 @@
  
  <p align="center">
  <span><img alt="Ankit's Github Stats" src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=cobalt&hide_border=true" /></span>
- <span><img src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/69595691/503a78ae-ab13-455f-aeeb-9eccaafa53ee" width="200px"></span>
+ <span><img src="https://tenor.com/en-GB/view/drstrange-one-onemore-avengers-endgame-gif-14454957" width="200px"></span>
  </p>
 
 </p>
