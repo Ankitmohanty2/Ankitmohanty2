@@ -64,7 +64,7 @@
  
  <p align="center">
  <span><img alt="Ankit's Github Stats" src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=cobalt&hide_border=true" /></span>
- <span><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam91aTV2eXNuNHFucml5emhuc2ZqYXF4a2k4eTN4ZjNoeGRvNDY0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gOnyRejxIPvPUE65HN/giphy.gif" width="200px"></span>
+ <span><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam91aTV2eXNuNHFucml5emhuc2ZqYXF4a2k4eTN4ZjNoeGRvNDY0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gOnyRejxIPvPUE65HN/giphy.gif" width="350px"></span>
  </p>
 
 </p>
