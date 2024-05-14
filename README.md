@@ -60,7 +60,7 @@
  </p>
  
  
- [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true)](https://github.com/Ankitmohanty2/github-readme-activity-graph)
  
  <p align="center">
  <span><img alt="Ankit's Github Stats" src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=cobalt&hide_border=true" /></span>
