@@ -44,7 +44,7 @@
 <div align = "center">
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=javascript,ts,bash,linux,git,github,java,prisma,py,nodejs,c,cpp,css,html,react,aws,express,materialui,mongodb,postgres,graphql,postman,docker,next,redux,vite,vscode,firebase,jquery,vite,npm&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=javascript,ts,bash,linux,git,github,java,prisma,py,nodejs,c,cpp,css,html,react,aws,express,materialui,mongodb,postgres,graphql,postman,docker,next,redux,vite,vscode,firebase,jquery,vite &perline=8"alt="My Skills"/> 
     </a>
 </p>
 </div>
