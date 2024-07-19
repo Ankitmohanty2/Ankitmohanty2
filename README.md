@@ -96,7 +96,7 @@
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div align="center">
-    <img src="https://i.imgur.com/9tIFmUS.gif" width="500"/>
+    <img src="https://giphy.com/gifs/laff-tv-jim-carrey-truman-show-the-dRvEZLV0ORAmHT1L5u" width="500"/>
   </div>
 <br> 
 <br>
