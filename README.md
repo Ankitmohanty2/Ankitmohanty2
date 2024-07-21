@@ -96,7 +96,7 @@
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNmMTQwdmt6ZmhjaDk4azdwOXhxdG9kMHZpYXhqOWtxZjhsY2U0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif" width="500"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3M2hhZWk4dHoxaWNsN2hxNHlsMjV3ZnJ6cWMxcjc1amIxc3o0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LTFbyWuELIlqlXGLeZ/giphy.gif" width="500"/>
   </div>
 <br> 
 <br>
