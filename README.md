@@ -17,23 +17,25 @@
 
 <h2 align="center">👁️‍🗨️ About Me 👁️‍🗨️</h2>
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc4ZTllZ3V1ajVydTMwdG1hZ3N0OGt1Z3YwM3FudHViaXcwMWZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cruO3FTeoAxjiTVxPW/giphy.gif" />
+<div align="center">
+  <img align="right" width="375" alt="Giphy Animation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc4ZTllZ3V1ajVydTMwdG1hZ3N0OGt1Z3YwM3FudHViaXcwMWZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cruO3FTeoAxjiTVxPW/giphy.gif" />
+</div>
 
 ### Personal Stuff:
 
-- 🛠 &nbsp; Hi, I'm Ankit! I'm currently working with NextJS, Typescript, NodeJS, ReactNative, GraphQL, and Tailwind.
-- 👀 &nbsp; Learning Goals: Kotlin, Golang, Rust (should I?)
-- 👨🏻‍💻 &nbsp; Check out my projects on [Github](https://github.com/Ankitmohanty2).
-- 💬 &nbsp; Feel free to ask me anything on [LinkedIn](https://www.linkedin.com/in/ankit-mohanty-3036ba209/). I'm happy to help!
-- 👾 &nbsp; Fun Fact: In JavaScript, `undefined` can be defined. <!-- `var some_var; undefined` `some_var == undefined` `true` `undefined = 'I am undefined'` -->
-- 📫 &nbsp; Reach me via [LinkedIn](https://www.linkedin.com/in/ankit-mohanty-3036ba209/) or email at mohantyankit619@gmail.com.
+- 🛠 &nbsp; Hi, I'm Ankit! I'm currently working with **NextJS**, **Typescript**, **NodeJS**, **ReactNative**, **GraphQL**, and **Tailwind**.
+- 👀 &nbsp; **Learning Goals:** Kotlin, Golang, Rust (should I?)
+- 👨🏻‍💻 &nbsp; Explore my projects on [GitHub](https://github.com/Ankitmohanty2).
+- 💬 &nbsp; Feel free to ask me anything on [LinkedIn](https://www.linkedin.com/in/ankit-mohanty-3036ba209/). I'm here to help!
+- 👾 &nbsp; **Fun Fact:** In JavaScript, `undefined` can be redefined. <!-- `var some_var; undefined` `some_var == undefined` `true` `undefined = 'I am undefined'` -->
+- 📫 &nbsp; Reach out via [LinkedIn](https://www.linkedin.com/in/ankit-mohanty-3036ba209/) or email at [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Exploring new tech and building cool stuff with it.
-- 📰 &nbsp; Writing and reading tech blogs about unique solutions to problems.
+- 💻 &nbsp; Exploring new technologies and building innovative solutions.
+- 📰 &nbsp; Writing and reading tech blogs about unique solutions to challenging problems.
 - 🍕 &nbsp; Participating in hackathons, meetups, and tech events.
-- ⚡ &nbsp; Fun Fact: I love playing the guitar and I’m 88% likely to beat you in badminton :p
+- ⚡ &nbsp; **Fun Fact:** I enjoy playing the guitar and am highly likely to beat you in badminton :p
 
 <br>
 
@@ -50,16 +52,16 @@
 <h2 align="center">📉 GitHub Stats</h2>
 
 <div align="center">
-  <p align="center">
-    <span><img alt="Ankit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></span>
-    <span><img alt="Ankit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></span>
-    <span><img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px"></span>
+  <p>
+    <img alt="Ankit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Ankit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img src="https://user-images.githubusercontent.com/65576812/183567672-780321f4-eda3-4501-88a8-ea73f9e87d85.gif" width="200px">
   </p>
 
-  <p align="center">
-    <span><img alt="Ankit's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true" /></span>
-    <span><img alt="Ankit's GitHub Streak" src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=cobalt&hide_border=true" /></span>
-    <span><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam91aTV2eXNuNHFucml5emhuc2ZqYXF4a2k4eTN4ZjNoeGRvNDY0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gOnyRejxIPvPUE65HN/giphy.gif" width="350px"></span>
+  <p>
+    <img alt="Ankit's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitmohanty2&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true" />
+    <img alt="Ankit's GitHub Streak" src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=cobalt&hide_border=true" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam91aTV2eXNuNHFucml5emhuc2ZqYXF4a2k4eTN4ZjNoeGRvNDY0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gOnyRejxIPvPUE65HN/giphy.gif" width="350px">
   </p>
 </div>
 
