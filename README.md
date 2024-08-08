@@ -87,6 +87,4 @@
 
 <h2 align="center">Thank You for Reading 🙋🏻‍♂️</h2>
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3M2hhZWk4dHoxaWNsN2hxNHlsMjV3ZnJ6cWMxcjc1amIxc3o0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LTFbyWuELIlqlXGLeZ/giphy.gif" width="500" />
-</div>
+
