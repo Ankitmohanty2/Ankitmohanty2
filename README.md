@@ -85,6 +85,7 @@
 
 <br>
 
-<h2 align="center">Thank You for Reading 🙋🏻‍♂️</h2>
+<h2 align="center">⏳ My Coding Activity ⏳</h2>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ankitmohanty2&theme=react&hide_border=true&bg_color=0D1117&text_color
