@@ -88,6 +88,6 @@
 <h2 align="center">⏳ My Coding Activity ⏳</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ankit_22&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Wakatime Stats"/>
+[![wakatime](https://wakatime.com/badge/user/018cc5da-3dee-4f24-aa62-88eae14a8ad3.svg)](https://wakatime.com/@018cc5da-3dee-4f24-aa62-88eae14a8ad3)
 </div>
 
