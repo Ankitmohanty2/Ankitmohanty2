@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "mohantyankit619@gmail.com"
+          git config --global user.name "Ankitmohanty2"
           git add README.md wakatime-stats.svg
           git commit -m "Updated WakaTime stats"
           git push
