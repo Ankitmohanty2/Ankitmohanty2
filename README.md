@@ -88,6 +88,7 @@
 <h2 align="center">⏳ My Coding Activity ⏳</h2>
 
 
-![WakaTime stats](wakatime-stats.svg)
+![WakaTime stats](./wakatime-stats.svg)
+
 
 
