@@ -28,4 +28,5 @@ jobs:
           git config --global user.name "Ankitmohanty2"
           git add README.md wakatime-stats.svg
           git commit -m "Updated WakaTime stats"
-          git push
+          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/Ankitmohanty2/Ankitmohanty2.git
+          git push origin main
