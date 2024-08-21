@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  
+    - cron: '0 * * * *'  # Runs the action every hour
   workflow_dispatch:
 
 jobs:
@@ -13,17 +13,19 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@v2
 
-      - name: Update README with WakaTime Stats
+      - name: Fetch WakaTime Stats and Update README
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          curl -o wakatime-stats.svg "https://wakatime.com/badge/user/${{ secrets.WAKATIME_API_KEY }}.svg"
-          echo '![WakaTime stats](wakatime-stats.svg)' > README.md
+          echo "Fetching WakaTime stats..."
+          curl -s "https://wakatime.com/badge/user/${{ secrets.WAKATIME_API_KEY }}.svg" -o wakatime-stats.svg
+          echo '![WakaTime stats](./wakatime-stats.svg)' > README.md
+          echo "WakaTime stats updated in README."
 
       - name: Commit changes
         run: |
-          git config --global user.email "you@example.com"
+          git config --global user.email "your-email@example.com"
           git config --global user.name "Your Name"
-          git add README.md
+          git add README.md wakatime-stats.svg
           git commit -m "Updated WakaTime stats"
           git push
