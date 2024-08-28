@@ -22,7 +22,7 @@ I'm a full-stack developer with a passion for creating innovative and efficient 
 - 👯 I'm looking to collaborate on open-source projects and innovative web applications
 - 💬 Ask me about JavaScript, React, Node.js, or anything related to web development
 - 📫 How to reach me: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
-- ⚡ Fun fact: I'm an avid guitarist and a formidable badminton player!
+
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +73,13 @@ I'm a full-stack developer with a passion for creating innovative and efficient 
 ## 🎵 Currently Vibing To
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yj5j7v4xtqmxjlzlxvqw4hhbwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music Gif" />
+  <br>
+  <i>Currently grooving to "Bye Bye Bye" by *NSYNC while coding!</i>
+  <br>
+  <a href="https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+  </a>
 </p>
 
 ---
