@@ -23,7 +23,6 @@ I'm a full-stack developer with a passion for creating innovative and efficient 
 - 💬 Ask me about JavaScript, React, Node.js, or anything related to web development
 - 📫 How to reach me: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
-
 ## 🛠️ Tech Stack
 
 <p align="center">
