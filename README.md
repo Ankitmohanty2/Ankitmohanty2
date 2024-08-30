@@ -52,7 +52,7 @@ I'm a full-stack developer with a passion for creating innovative and efficient 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitmohanty2&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Ankitmohanty2&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ## 🌐 Connect with Me
