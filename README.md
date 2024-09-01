@@ -38,6 +38,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🌐 Connect with Me
