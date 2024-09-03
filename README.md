@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently enhancing skills in **NextJS**, **TypeScript**, and **GraphQL**
-- 🌱 Learning **React Native**, **Golang**, and **Rust**
+- 🌱 Learning **React Native**, **Golang**, and **Rust*
 - 👯 Open to collaboration on open-source projects
 - 📫 Reach me: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
