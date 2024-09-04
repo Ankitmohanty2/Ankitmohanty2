@@ -15,43 +15,42 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently enhancing skills in **NextJS**, **TypeScript**, and **GraphQL**
+- 🔭 Currently enhancing my skills in **Next.js**, **TypeScript**, and **GraphQL**
 - 🌱 Learning **React Native**, **Golang**, and **Rust**
 - 👯 Open to collaboration on open-source projects
-- 📫 Reach me: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
+- 📫 How to reach me: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-</p>
-
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+</div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/ankit-mohanty-3036ba209" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ankitmohanty2" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-</p>
+</div>
