@@ -16,9 +16,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On**: Enhancing skills in **Next.js**, **TypeScript**, and **GraphQL**.
-- 🌱 **Learning**: **React Native**, **Golang**, and **Rust**.
-- 💡 **Interests**: Open-source contributions, modern web development, and scalable backend architectures.
+- 🔭 **Currently Working On**: Next.js, TypeScript, GraphQL
+- 🌱 **Learning**: React Native, Golang, Rust
+- 💡 **Interests**: Open-source contributions, modern web development, scalable backend architectures
 - 📫 **Contact**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
 ---
