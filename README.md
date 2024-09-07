@@ -54,4 +54,15 @@
   <a href="https://linkedin.com/in/ankit-mohanty-3036ba209" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Ankitmohanty2
+  <a href="https://github.com/Ankitmohanty2" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Markdown Badge">
+</div>
