@@ -5,7 +5,7 @@
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
@@ -18,12 +18,12 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
 
 <!--  EXCITED CHARACTERS  -->
-<img src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
 </br>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!--  EXPERTISE  -->
 ### My expertise encompasses:
@@ -52,36 +52,36 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 [![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)](https://www.adobe.com/products/xd.html)
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ankitmohanty2&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="Ankitmohanty2" width="100%" /> </p>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
 
 <!--  HI PIKACHU  -->
-<img src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
 <!--  MY GITHUB STAT  -->
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
 
 <!--  CAT  -->
-<img align="left" src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
 
 <!--  DIVIDER  -->
-<img width="100%" src="https://github.com/Ankitmohanty2/Ankitmohanty2/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### _**You can find me on:**_
 
