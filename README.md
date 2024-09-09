@@ -79,5 +79,4 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35" alt="Parrot GIF">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Markdown Badge">  
 </div>
