@@ -55,14 +55,6 @@
 
 ---
 
-### 🚀 Projects
-
-- **[Project 1 Name](#)**: Brief description of the project with key features.  
-- **[Project 2 Name](#)**: Brief description of the project with key features.  
-- **[Project 3 Name](#)**: Brief description of the project with key features.  
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
