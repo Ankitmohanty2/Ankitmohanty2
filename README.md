@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1mbjI5NnB2OHZraGZwanMxOWNqNm5hcTIwc29kODVrZGN3MnBrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="150px" alt="Hello GIF">
-  <h1>Hi, I'm Ankit Mohanty 👋</h1>
-  <h3>Full Stack Developer | Open Source Contributor | Lifelong Learner</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1mbjI5NnB2OHZraGZwanMxOWNqNm5hcTIwc29kODVrZGN3MnBrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="120px" alt="Hello GIF">
+  <h1>Welcome to My GitHub! 👋</h1>
+  <h3>I'm Ankit Mohanty - Full Stack Developer | Open Source Contributor | Lifelong Learner</h3>
 </div>
 
 <p align="center">
@@ -17,14 +17,14 @@
 
 ### 🌟 About Me
 
-- 💻 **Current Focus**: Building scalable applications using Next.js, TypeScript, and GraphQL  
-- 🚀 **Learning**: React Native, Golang, Rust  
-- 🔧 **Specialties**: Modern Web Development, Scalable Backend Solutions, Open Source Contributions  
-- 📧 **Reach Out**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
+- 💼 **Current Focus**: Developing scalable applications using Next.js, TypeScript, and GraphQL.  
+- 📚 **Learning**: Expanding knowledge in React Native, Golang, and Rust.  
+- 💡 **Key Areas**: Modern Web Development, Backend Architecture, Open Source Contributions.  
+- 📧 **Contact**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
 ---
 
-### 💻 Tech Stack
+### 🛠 Technical Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/ankit-mohanty-3036ba209" target="_blank">
@@ -69,7 +69,6 @@
 ---
 
 <div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35" alt="Parrot GIF">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source">
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge">
 </div>
