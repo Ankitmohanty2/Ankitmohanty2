@@ -18,9 +18,9 @@
 ### 🌟 About Me
 
 - 💼 **Current Focus**: Building scalable web applications with **Next.js**, **TypeScript**, and **GraphQL**.
-- 📚 **Learning**: Improving skills in **React Native**, **Golang**, and **Rust**.
-- 🌍 **Key Areas**: Modern web development, backend architecture, and open-source contributions.
-- 📧 **Reach Out**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
+- 📚 **Learning**: Exploring new technologies such as **React Native**, **Golang**, and **Rust**.
+- 🚀 **Passionate About**: Open-source contributions, modern web development, and clean, efficient backend architecture.
+- 📧 **Let's Connect**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
 ---
 
