@@ -17,10 +17,10 @@
 
 ### 🌟 About Me
 
-- 💼 **Current Focus**: Developing scalable applications using Next.js, TypeScript, and GraphQL.  
-- 📚 **Learning**: Expanding knowledge in React Native, Golang, and Rust.  
-- 💡 **Key Areas**: Modern Web Development, Backend Architecture, Open Source Contributions.  
-- 📧 **Contact**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
+- 💼 **Current Focus**: Building scalable web applications with **Next.js**, **TypeScript**, and **GraphQL**.
+- 📚 **Learning**: Improving skills in **React Native**, **Golang**, and **Rust**.
+- 🌍 **Key Areas**: Modern web development, backend architecture, and open-source contributions.
+- 📧 **Reach Out**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
 ---
 
@@ -72,5 +72,3 @@
   <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge">
 </div>
-
-
