@@ -62,4 +62,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ankitmohanty2" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge">
+</div>
