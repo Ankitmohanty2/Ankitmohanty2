@@ -18,9 +18,9 @@
 ### 🌟 About Me
 
 - 💼 **Current Focus**: Building scalable web applications with **Next.js**, **TypeScript**, and **GraphQL**.
-- 📚 **Learning**: Exploring new technologies such as **React Native**, **Golang**, and **Rust**.
-- 🚀 **Passionate About**: Open-source contributions, modern web development, and clean, efficient backend architecture.
-- 📧 **Let's Connect**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
+- 🌱 **Currently Learning**: Diving deeper into **React Native**, **Golang**, and **Rust**.
+- 💻 **Passionate About**: Contributing to open-source, developing modern web solutions, and crafting clean, efficient backend architectures.
+- 📫 **Reach Me**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
 ---
 
@@ -62,13 +62,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ankitmohanty2" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge">
-</div>
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub
