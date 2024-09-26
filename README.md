@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1mbjI5NnB2OHZraGZwanMxOWNqNm5hcTIwc29kODVrZGN3MnBrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="120px" alt="Hello GIF">
   <h1>Welcome to My GitHub! 👋</h1>
@@ -27,7 +26,7 @@
 
 ### 🛠 Technical Skills
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
@@ -42,30 +41,31 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400px">
   <img src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400px">
-</div>
+</p>
 
 ---
 
 ### 🌐 Let's Connect
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/ankit-mohanty-3036ba209" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ankitmohanty2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</div>
+</p>
+
 ---
 
 <div align="center">
