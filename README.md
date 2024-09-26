@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1mbjI5NnB2OHZraGZwanMxOWNqNm5hcTIwc29kODVrZGN3MnBrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="120px" alt="Hello GIF">
   <h1>Welcome to My GitHub! 👋</h1>
@@ -67,10 +68,7 @@
 </div>
 ---
 
-
 <div align="center">
   <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge">
 </div>
-
-
