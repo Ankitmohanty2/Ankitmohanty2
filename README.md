@@ -18,7 +18,7 @@
 ### 🌟 About Me
 
 - 💼 **Current Focus**: Developing scalable web applications using **Next.js**, **TypeScript**, and **GraphQL**.
-- 🌱 **Learning**: Deepening my knowledge of **React Native**, **Golang**, and **Rust**.
+- 🌱 **Learning**: Deepening my knowledge of **React Native**, **ML**, and **Rust**.
 - 💻 **Passionate About**: Contributing to open-source projects, creating modern web solutions, and building efficient backend architectures.
 - 📫 **Get in Touch**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
@@ -65,8 +65,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
-
 ---
 
 <div align="center">
