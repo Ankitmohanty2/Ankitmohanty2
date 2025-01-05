@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
