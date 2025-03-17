@@ -64,7 +64,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
 <div align="center">
   <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge">
