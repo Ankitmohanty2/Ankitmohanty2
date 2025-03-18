@@ -68,6 +68,5 @@
   <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source Badge">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge">
 </div>
-[![Committers.top badge](https://user-badge.committers.top/india/Ankitmohanty2.svg)](https://committers.top/india/Ankitmohanty2)
 
 
