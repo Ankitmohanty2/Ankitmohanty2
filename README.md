@@ -23,7 +23,6 @@
 - 📫 **Get in Touch**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
 
 ---
-
 ### 🛠 Technical Skills
 
 <p align="center">
