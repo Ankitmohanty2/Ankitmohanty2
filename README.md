@@ -19,7 +19,6 @@
 - 🌱 **Learning**: Deepening my knowledge of **React Native**, **ML**, and **Rust**.
 - 💻 **Passionate About**: Contributing to open-source projects, creating modern web solutions, and building efficient backend architectures.
 - 📫 **Get in Touch**: [mohantyankit619@gmail.com](mailto:mohantyankit619@gmail.com)
-
 ---
 ### 🛠 Technical Skills
 
