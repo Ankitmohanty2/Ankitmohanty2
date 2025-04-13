@@ -13,7 +13,6 @@
 </p>
 
 ### 🌟 About Me
-
 - 💼 **Current Focus**: Developing scalable web applications using **Next.js**, **TypeScript**, and **GraphQL**.
 - 🌱 **Learning**: Deepening my knowledge of **React Native**, **ML**, and **Rust**.
 - 💻 **Passionate About**: Contributing to open-source projects, creating modern web solutions, and building efficient backend architectures.
