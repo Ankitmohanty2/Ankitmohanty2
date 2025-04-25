@@ -21,8 +21,6 @@
 - 📫 **Get in Touch**: [ankitmohanty23@outlook.com](mailto:ankitmohanty23@outlook.com)
 
 ---
-
-
 ### 🛠 Technical Skills
 
 <p align="center">
