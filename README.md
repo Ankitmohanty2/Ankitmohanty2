@@ -12,6 +12,7 @@
   </a>
 </p>
 
+
 ### 🌟 About Me
 
 - 💼 **Current Focus**: Developing scalable web applications using **Next.js**, **TypeScript**, and **GraphQL**.
