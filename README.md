@@ -20,7 +20,6 @@
 - 💻 **Passionate About**: Contributing to open-source projects, creating modern web solutions, and building efficient backend architectures.
 - 📫 **Get in Touch**: [ankitmohanty23@outlook.com](mailto:ankitmohanty23@outlook.com)
 
-
 ---
 
 
