@@ -23,7 +23,6 @@
 
 ---
 
-
 ### 🛠 Technical Skills
 
 <p align="center">
