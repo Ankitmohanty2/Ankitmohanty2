@@ -11,8 +11,6 @@
     <img src="https://wakatime.com/badge/user/018cc5da-3dee-4f24-aa62-88eae14a8ad3.svg" alt="Wakatime Badge">
   </a>
 </p>
-
-
 ### 🌟 About Me
 
 - 💼 **Current Focus**: Developing scalable web applications using **Next.js**, **TypeScript**, and **GraphQL**.
