@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1mbjI5NnB2OHZraGZwanMxOWNqNm5hcTIwc29kODVrZGN3MnBrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="120px" alt="Hello GIF">
   <h1>Welcome to My GitHub! 👋</h1>
   <h3>I'm Ankit Mohanty - Full Stack Developer | Open Source Contributor</h3>
-</div>
+</div> 
+
 <p align="center">
   <a href="https://github.com/Ankitmohanty2">
     <img src="https://komarev.com/ghpvc/?username=Ankitmohanty2&style=for-the-badge&color=brightgreen" alt="Profile Views">
