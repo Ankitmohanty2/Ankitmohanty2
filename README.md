@@ -34,8 +34,9 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+  <a href="https://ankitmohanty.in" target="_blank">
+    <strong>→ ankitmohanty.in</strong>
+  </a>
 </p>
 
 ---
