@@ -17,13 +17,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in building modern, scalable web applications. I specialize in creating seamless user experiences and robust backend architectures while actively contributing to the open-source community.
+24-year-old engineer who likes to build things. Currently focused on full-stack development and exploring AI/ML.
 
-- 💼 **Current Focus**: Developing scalable web applications with **Next.js**, **TypeScript**, and **GraphQL**
-- 🌱 **Currently Learning**: **AI/ML**, **Redis**, **AWS**, **PostgreSQL**, and **React Native**
-- 🔧 **Expertise**: Full-stack development, modern web technologies, and cloud infrastructure
-- 🎯 **Passionate About**: Open-source contribution, clean code, and innovative solutions
-- 📧 **Reach Me**: [ankitmohanty23@outlook.com](mailto:ankitmohanty23@outlook.com)
+- 💼 Building scalable web applications with **Next.js**, **TypeScript**, and **GraphQL**
+- 🌱 Learning **AI/ML**, **Redis**, **AWS**, and **PostgreSQL**
+- 📧 **Contact**: [ankitmohanty23@outlook.com](mailto:ankitmohanty23@outlook.com)
 
 ---
 
@@ -71,12 +69,12 @@ I'm a passionate Full Stack Developer with expertise in building modern, scalabl
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitmohanty2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitmohanty2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com?user=Ankitmohanty2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitmohanty2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" alt="Top Languages" width="48%">
 </p>
 
 ---
