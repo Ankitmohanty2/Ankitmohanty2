@@ -10,7 +10,6 @@
   <a href="mailto:ankitmohanty23@outlook.com">email</a>
 </p>
 
-
 ---
 
 ## 🔷 my goto stack
