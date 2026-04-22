@@ -15,7 +15,6 @@
 
 
 
-
 ## 🔷 my goto stack
 
 **typescript** · **javascript** · **python** · **react** · **next.js** · **node.js** · **express** · **mongodb** · **postgresql** · **redis** · **graphql** · **aws** · **docker** · **tailwind**
